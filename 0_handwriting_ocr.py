@@ -58,7 +58,7 @@ ctx = mx.cpu(0) #if mx.context.num_gpus() > 0 else mx.cpu()
 
 # In[3]:
 
-im11 = np.asarray(cv2.imread('test5.png', cv2.IMREAD_GRAYSCALE))
+im11 = np.asarray(cv2.imread('test6.png', cv2.IMREAD_GRAYSCALE))
 im12 = np.asarray(cv2.imread('test2.png', cv2.IMREAD_GRAYSCALE))
 im13 = np.asarray(cv2.imread('test3.png', cv2.IMREAD_GRAYSCALE))
 im14 = np.asarray(cv2.imread('test4.png', cv2.IMREAD_GRAYSCALE))
