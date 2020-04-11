@@ -1,7 +1,7 @@
 import sys
 from timeit import timeit
 
-from leven import levenshtein
+from pylev import levenshtein
 
 n_runs = 30
 
