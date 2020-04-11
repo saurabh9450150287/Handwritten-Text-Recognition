@@ -17,5 +17,5 @@ To get the pretrained models run this command on anaconda prompt:
 python get_models.py
 ```
 ## Output :
-To see output please open :
-https://github.com/saurabh9450150287/Handwritten-Text-Recognition/blob/master/0_handwriting_ocr.ipynb
+To see output along with the code please open :
+https://github.com/saurabh9450150287/Handwritten-Text-Recognition/blob/master/0_handwriting_ocr.ipynb 
