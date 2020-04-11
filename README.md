@@ -2,11 +2,13 @@
 ## Working Procedure
 - **Paragraph Segmentation** :
 Detect that area of the image which contains handwritten text
-- **Word Detection** :
-Detect the words in the area which we got after paragaraph segmentation.
 
 ![Paragraph detector](https://user-images.githubusercontent.com/43703209/79051799-d968b500-7c4f-11ea-9457-c6c025c1eba2.PNG)
 
+
+
+- **Word Detection** :
+Detect the words in the area which we got after paragaraph segmentation.
 
 - **Line Identification** :
 Identify the lines and the words present in that line by checking the vertical overlap between the words
